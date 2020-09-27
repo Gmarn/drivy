@@ -1,0 +1,12 @@
+.CarContainer {
+  padding: 10px;
+  margin: 5px;
+  border: 1px #012865 solid;
+  border-radius: 5px;
+  max-width: 200px;
+}
+
+.car-image {
+  padding: 5px;
+  border-radius: 10px:
+}
