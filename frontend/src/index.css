@@ -1,0 +1,23 @@
+@import './equalizer';
+@import './layout';
+@import './cars';
+
+.background-blue-0 {
+  background: #ddddee;
+}
+
+.main-index {
+  padding: 15px;
+}
+
+.general-text {
+  font-family: Geomanist,Arial,Helvetica,Sans-Serif;
+  color: #012865;
+}
+
+.title-1 {
+  margin: 30px 0;
+  font-family: Geomanist,Arial,Helvetica,Sans-Serif;
+  color: #012865;
+  font-size: 20px;
+}
